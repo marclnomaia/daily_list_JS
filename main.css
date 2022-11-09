@@ -1,0 +1,31 @@
+body{
+background-color:rgb(232, 237, 241);
+color: rgb(145, 106, 106);
+padding: 24px;
+}
+.title{
+  font-size: 48px;
+  color:blue;
+}
+.list-task{
+  margin-bottom: 30px;
+}
+input{
+  height: 32px;
+  background-color: transparent;
+  color: red;
+  border-color: crimson;
+  border-radius: 4px;
+  font-size: 18px;
+  padding: 8px;
+}
+.add-task-button{
+  font-size: 16px;
+  padding: 16px;
+  background-color: lightgreen;
+  border-width:0px ;
+  border-radius: 4px;
+  color: white;
+  font-weight: bold;
+  font-family: monospace;
+}
