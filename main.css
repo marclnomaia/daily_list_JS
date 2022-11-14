@@ -1,6 +1,6 @@
 body{
 background-color:rgb(232, 237, 241);
-color: rgb(145, 106, 106);
+color: black;
 padding: 24px;
 }
 .title{
@@ -9,6 +9,8 @@ padding: 24px;
 }
 .list-task{
   margin-bottom: 30px;
+  font-size: 24px;
+  font-weight: bold;
 }
 input{
   height: 32px;
